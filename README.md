@@ -1,4 +1,4 @@
-# pivovarnya-bavaria HELICON 2023
+# mangal-firegrill promo HELICON 2023
 
 vue, vuex, gsap, fancybox, javascript, webpack, swiper
 

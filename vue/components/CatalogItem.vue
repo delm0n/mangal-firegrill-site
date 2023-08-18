@@ -42,9 +42,7 @@
               >
                 Заказать
               </button>
-              <a class="button button-ozon" :href="item.ozon" target="_blank"
-                >Купить на Ozon</a
-              >
+              <button class="button button-ozon">Купить на Ozon</button>
             </div>
           </div>
         </div>

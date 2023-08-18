@@ -112,8 +112,8 @@ export default {
   max-width: 1920px;
   padding: 75px 0 150px;
   margin: 0 auto;
-  background-image: url("../../images/promo/models/models-bg_left.webp"),
-    url("../../images/promo/models/models-bg_right.webp");
+  background-image: url("../../build/images/promo/models/models-bg_left.webp"),
+    url("../../build/images/promo/models/models-bg_right.webp");
   background-position: left 340px, right 300px;
   background-repeat: no-repeat, no-repeat;
   overflow: hidden;
