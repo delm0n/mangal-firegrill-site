@@ -1,6 +1,6 @@
 <template>
   <div id="order-modal" ref="orderModal">
-    <form action="sendOrder.php" method="post" class="spnForm">
+    <form action="" v-on:submit.prevent method="post" class="spnForm">
       <div v-html="getMetric"></div>
 
       <div class="order-modal">
